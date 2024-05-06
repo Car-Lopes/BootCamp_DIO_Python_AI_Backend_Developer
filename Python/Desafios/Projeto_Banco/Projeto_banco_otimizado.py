@@ -106,6 +106,7 @@ def listar_usuarios(usuarios):
     for usuario in usuarios:
         linha = f"""\
             Cpf: \t {usuario['cpf']}
+            Nome: \t {usuario['nome']}
         """
         print(textwrap.dedent(linha))
 
@@ -160,7 +161,7 @@ def main():
                 contas.append(conta)         
 
         elif opcao == "7":
-            listar_usuarios(user) 
+            listar_usuarios(usuarios) 
 
         elif opcao == "0":
             break
