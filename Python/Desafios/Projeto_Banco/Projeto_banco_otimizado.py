@@ -39,7 +39,7 @@ def saque(*, saldo, valor, extrato, limite, numero_saque, limite_saques):
 
     elif excedeu_saques:
         print("\nOperação falhou! Número máximo de saques excedido.")
-
+        
     elif valor > 0:
         saldo -= valor
         extrato += f"Saque: R$ {valor:.2f}\n"
@@ -121,7 +121,6 @@ def main():
     numero_saques = 0
     usuarios = []
     contas = []
-    user = []
 
     while True:
         opcao = menu()

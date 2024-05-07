@@ -47,12 +47,13 @@ Estudos de Python
 
 ## 📚 Referências
 
-- []()
+- [Projeto_Referencia(DIO)](https://github.com/digitalinnovationone/trilha-python-dio/blob/00_fundamentos/00%20-%20Fundamentos/desafio.py)
 
 
 
 ## 🔗 Projetos Entregues
 - [Projeto1_Banco](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/tree/master/Python/Desafios/Projeto_Banco)
+- [Projeto1_Otimizando](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/tree/master/Python/Desafios/Projeto_Banco)
 
 
 
