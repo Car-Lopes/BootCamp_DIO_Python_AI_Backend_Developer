@@ -23,6 +23,14 @@ Estudos de Python
   - Conjuntos(Sets) - (Criando e Acessando)
   - Dicionarios(Criação, acesso aos dados e Metodo da classe dict)
   - Funções(Criação, chamar função e suas funcionalidades e como utilizar)
+  - Classes e Objetos
+  - Construtores e Destrutores
+  - Herança
+  - Encapsulamento
+  - Polimorfismo
+  - Atributo de Classes e Instancias
+  - Metodos de Classes e Metodos estaticos
+
 
 
 
@@ -47,6 +55,7 @@ Estudos de Python
 
 ## 📚 Referências
 
+- [Projeto_referencia(DIO_P)](https://github.com/digitalinnovationone/trilha-python-dio/tree/main)
 - [Projeto_Referencia(DIO)](https://github.com/digitalinnovationone/trilha-python-dio/blob/00_fundamentos/00%20-%20Fundamentos/desafio.py)
 
 
@@ -59,7 +68,10 @@ Estudos de Python
 
 ## 📜 Certificados
 
-- 
+- Introdução à Programação Orientada a Objetos (POO) com Python
+- Aprendendo o Conceito de Herança com Python
+- Aplicando Encapsulamento em Python
+- Conhecendo Polimorfismo em Python
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO

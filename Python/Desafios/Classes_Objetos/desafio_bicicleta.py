@@ -14,6 +14,14 @@ class Bicicleta:
 
     def correr(self):
         print("Vrummmmm")  
+    """
+    def __str__(self):
+        return f"BICICLETA: cor={self.cor}, modelo={self.modelo}, ano={self.ano}, valor={self.valor}"
+    """
+
+    def __str__(self):
+        return f"{self.__class__.__name__}: {', '.join([f'{chave}={valor}' for chave, valor in self.__dict__.items()])}"
+    
 
 bicicleta1 = Bicicleta("vermelha", "caloi", 2022, 1200)         
 bicicleta1.buzinar()
@@ -28,3 +36,5 @@ bicicleta2.buzinar()
 Bicicleta.buzinar(bicicleta2)
 
 print(bicicleta2.cor, bicicleta2.modelo)
+print(bicicleta2)
+print(bicicleta1)
