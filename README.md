@@ -30,6 +30,7 @@ Estudos de Python
   - Polimorfismo
   - Atributo de Classes e Instancias
   - Metodos de Classes e Metodos estaticos
+  - Decoradores
 
 
 
