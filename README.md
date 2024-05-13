@@ -57,6 +57,7 @@ Estudos de Python
 
 - [Projeto_referencia(DIO_P)](https://github.com/digitalinnovationone/trilha-python-dio/tree/main)
 - [Projeto_Referencia(DIO)](https://github.com/digitalinnovationone/trilha-python-dio/blob/00_fundamentos/00%20-%20Fundamentos/desafio.py)
+- [Python_ABC.Docs](https://docs.python.org/pt-br/3/library/abc.html)
 
 
 
@@ -72,6 +73,7 @@ Estudos de Python
 - Aprendendo o Conceito de Herança com Python
 - Aplicando Encapsulamento em Python
 - Conhecendo Polimorfismo em Python
+- POO com Python - Interfaces e Classes Abstratas
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO
