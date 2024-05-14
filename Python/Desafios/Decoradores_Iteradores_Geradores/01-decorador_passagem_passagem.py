@@ -10,5 +10,6 @@ def executar(funcao, nome):
     print("Executando executar")
     return funcao(nome)
 
+
 print(executar(mensagem, "joao"))
 print(executar(mensagem_longa, "Carlos"))
