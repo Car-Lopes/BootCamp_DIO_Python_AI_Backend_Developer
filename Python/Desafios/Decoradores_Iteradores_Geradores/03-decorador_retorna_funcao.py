@@ -1,6 +1,8 @@
 def calculadora(operacao):
     def soma(a, b):
+        #print("Somei")
         return a + b
+         
     
     def subtratacao(a, b):
         return a - b

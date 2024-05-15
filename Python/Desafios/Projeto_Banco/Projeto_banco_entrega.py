@@ -187,7 +187,7 @@ def menu():
     \t[3]\t Extrato
     \t[4]\t Novo Usuário
     \t[5]\t Listar contas
-    \t[6]\t Novo Conta
+    \t[6]\t Nova Conta
     \t[7]\t Listar Usuário
     \t[0]\t Sair
 \t===========================
