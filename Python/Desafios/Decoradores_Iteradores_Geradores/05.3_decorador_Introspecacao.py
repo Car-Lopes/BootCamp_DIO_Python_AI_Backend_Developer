@@ -1,5 +1,9 @@
+import functools
+
 def dupl(func):
+    @functools.wraps(func)
     def envelope(*args, **kwargs):
+        
         #func(*args, **kwargs)
         resultado = func(*args, **kwargs)
         return resultado

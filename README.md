@@ -30,10 +30,7 @@ Estudos de Python
   - Polimorfismo
   - Atributo de Classes e Instancias
   - Metodos de Classes e Metodos estaticos
-  - Decoradores
-
-
-
+  - Decoradores e Instrospecção, Iteradores e Geradores
 
 
 ## 🛠️ Ferramentas
@@ -66,6 +63,7 @@ Estudos de Python
 - [Projeto1_Banco](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/tree/master/Python/Desafios/Projeto_Banco)
 - [Projeto1_Otimizando](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/tree/master/Python/Desafios/Projeto_Banco)
 - [Projeto2_banco_POO](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/blob/master/Python/Desafios/Projeto_Banco/Projeto_banco_entrega.py)
+- [Projeto_banco_iteradores_geradores]()
 
 
 
@@ -76,6 +74,7 @@ Estudos de Python
 - Aplicando Encapsulamento em Python
 - Conhecendo Polimorfismo em Python
 - POO com Python - Interfaces e Classes Abstratas
+- Decoradores, Iteradores e Geradores com Python
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO
