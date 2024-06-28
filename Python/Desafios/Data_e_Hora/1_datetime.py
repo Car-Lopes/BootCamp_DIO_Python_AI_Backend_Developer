@@ -19,5 +19,4 @@ print()
 
 hora = time(10, 20, 15)
 print(hora)
-print(time.hour)
 

@@ -31,6 +31,7 @@ Estudos de Python
   - Atributo de Classes e Instancias
   - Metodos de Classes e Metodos estaticos
   - Decoradores e Instrospecção, Iteradores e Geradores
+  - Data , Hora e Fuso horario no Python
 
 
 ## 🛠️ Ferramentas
@@ -56,6 +57,7 @@ Estudos de Python
 - [Projeto_referencia(DIO_P)](https://github.com/digitalinnovationone/trilha-python-dio/tree/main)
 - [Projeto_Referencia(DIO)](https://github.com/digitalinnovationone/trilha-python-dio/blob/00_fundamentos/00%20-%20Fundamentos/desafio.py)
 - [Python_ABC.Docs](https://docs.python.org/pt-br/3/library/abc.html)
+- [Python.Docs](https://docs.python.org/3/)
 
 
 
@@ -63,7 +65,7 @@ Estudos de Python
 - [Projeto1_Banco](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/tree/master/Python/Desafios/Projeto_Banco)
 - [Projeto1_Otimizando](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/tree/master/Python/Desafios/Projeto_Banco)
 - [Projeto2_banco_POO](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/blob/master/Python/Desafios/Projeto_Banco/Projeto_banco_entrega.py)
-- [Projeto_banco_iteradores_geradores]()
+- [Projeto_banco_iteradores_geradores](https://github.com/Car-Lopes/BootCamp_DIO_Python_AI_Backend_Developer/blob/master/Python/Desafios/Projeto_Banco/Projeto_banco_entrega_2.py)
 
 
 
@@ -75,6 +77,7 @@ Estudos de Python
 - Conhecendo Polimorfismo em Python
 - POO com Python - Interfaces e Classes Abstratas
 - Decoradores, Iteradores e Geradores com Python
+- Lidando com Data , Hora e Fuso horario no Python
 
 
 ## 📃 CERTIFICADO DE CONCLUSÃO
