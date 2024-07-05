@@ -32,6 +32,8 @@ Estudos de Python
   - Metodos de Classes e Metodos estaticos
   - Decoradores e Instrospecção, Iteradores e Geradores
   - Data , Hora e Fuso horario no Python
+  - Manipulando Arquivos em Python
+  - Gerenciamento de Pacotes, Convenções e Boas Práticas
 
 
 ## 🛠️ Ferramentas
@@ -58,6 +60,7 @@ Estudos de Python
 - [Projeto_Referencia(DIO)](https://github.com/digitalinnovationone/trilha-python-dio/blob/00_fundamentos/00%20-%20Fundamentos/desafio.py)
 - [Python_ABC.Docs](https://docs.python.org/pt-br/3/library/abc.html)
 - [Python.Docs](https://docs.python.org/3/)
+- [Python.pypi](https://pypi.org/)
 
 
 
